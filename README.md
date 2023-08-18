@@ -73,6 +73,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Prot10/Prot10/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Prot10/Prot10/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
