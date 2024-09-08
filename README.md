@@ -11,6 +11,9 @@
   <a href="https://twitter.com/Andrea__Protani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://andreaprotani.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Personal%20Portfolio&logo=internet-explorer&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal portfolio logo"  />
+  </a>
 </div>
 
 ###
@@ -29,7 +32,7 @@
 
 ###
 
-<p align="left">📚 MSc in Data Science <br><br>🎓 Graduated in Statistics<br><br>💻 Tech enthusiast<br><br>✈️ Traveler<br><br>📍Rome - Barcelona</p>
+<p align="left">📚 MSc in Data Science <br><br>🎓 Graduated in Statistics<br><br>💻 Tech enthusiast<br><br>✈️ Traveler<br><br>📍Rome - Barcelona - Geneva</p>
 
 ###
 
