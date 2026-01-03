@@ -51,7 +51,7 @@ I am a **PhD Student and Research Scientist** currently based in **Geneva**, wor
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prot10/Prot10/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Prot10/Prot10/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
 </div>
 
 <br />
