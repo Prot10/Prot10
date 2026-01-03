@@ -36,7 +36,7 @@ I am a **PhD Student and Research Scientist** currently based in **Geneva**, wor
 
 <br />
 
-<h3 align="left">🛠️ Tech Stack</h3>
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,bash&perline=6&theme=dark" />
@@ -60,7 +60,7 @@ I am a **PhD Student and Research Scientist** currently based in **Geneva**, wor
 
 <br />
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prot10&theme=radical" alt="languages" />
