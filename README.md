@@ -1,77 +1,75 @@
 <div align="center">
-  <img height="200" src="https://earthsky.org/upl/2018/05/deep-learning-quora.png"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Andrea+Protani;PhD+Student+%40+CERN+%26+EPFL;AI+Research+Scientist;Graph+Neural+Networks+Expert;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrea-protani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.andreaprotani.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=uzjy878AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank" />
   </a>
   <a href="https://twitter.com/Andrea__Protani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://andreaprotani.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal%20Portfolio&logo=internet-explorer&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal portfolio logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prot10.Prot10&"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prot10&bg_color=0D1117&color=35ce8d&line=35ce8d&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-###
+<br />
 
-<h1 align="center">Hey there 👋</h1>
+### 👨‍💻 About Me
 
-###
+I am a **PhD Student and Research Scientist** currently based in **Geneva**, working at the intersection of Neuroscience and AI at **CERN** and **EPFL**. My research focuses on **Graph Neural Networks (GNNs)**, Federated Learning, and their applications in healthcare (e.g., stroke assessment).
 
-<h3 align="left">About Me</h3>
+* 🔭 I’m currently working on **Explainable GNNs for EEG Signals**.
+* 🎓 **MSc in Data Science** (Sapienza University of Rome) & **BSc in Statistics**.
+* ♟️ Passionate about **Chess**, **Football**, and **Finance**.
+* 📍 Originally from **Rome**.
 
-###
+<br />
 
-<p align="left">📚 MSc in Data Science <br><br>🎓 Graduated in Statistics<br><br>💻 Tech enthusiast<br><br>✈️ Traveler<br><br>📍Rome - Barcelona - Geneva</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prot10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,bash&perline=6&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker&perline=6&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,sklearn,matlab,latex,react&perline=6&theme=dark" />
 </div>
 
-###
+<br />
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Prot10/Prot10/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
+</div>
+
+<br />
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prot10&theme=radical" alt="languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Prot10&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3&background=00000000" height="150" alt="streak graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prot10.Prot10" alt="visitor badge"/>
+</div>
