@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Andrea+Protani;PhD+Student+%40+CERN+%26+EPFL;AI+Research+Scientist;Graph+Neural+Networks+Expert;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Andrea+Protani;PhD+Student+%40+CERN+%26+EPFL;AI+Research+Scientist;Graph+Neural+Networks+Expert;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -75,5 +75,5 @@ I am a **PhD Student and Research Scientist** currently based in **Geneva**, wor
 <br />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prot10.Prot10" alt="visitor badge"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Prot10/Prot10&label=Visitors&countColor=%2335ce8d" alt="visitor badge" />
 </div>
