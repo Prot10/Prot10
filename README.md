@@ -69,11 +69,5 @@ I am a **PhD Student and Research Scientist** currently based in **Geneva**, wor
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prot10&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3&background=00000000" height="150" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Prot10/Prot10&label=Visitors&countColor=%2335ce8d" alt="visitor badge" />
 </div>
