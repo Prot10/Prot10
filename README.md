@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Andrea+Protani;PhD+Student+%40+CERN+%26+EPFL;AI+Research+Scientist;Graph+Neural+Networks+Expert;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Andrea+Protani;Co-founder+of+Kosmico;PhD+Student+%40+CERN;AI+Research+Scientist;Graph+Neural+Networks+Expert;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,7 +27,9 @@
 
 ### 👨‍💻 About Me
 
-I am a **PhD Student and Research Scientist** currently based in **Geneva**, working at the intersection of Neuroscience and AI at **CERN** and **EPFL**. My research focuses on **Graph Neural Networks (GNNs)**, Federated Learning, and their applications in healthcare (e.g., stroke assessment).
+I am the **co-founder of [Kosmico](https://kosmico.ai)**, building an AI workspace for multiplayer, traceable research.
+
+I am a **PhD Student and Research Scientist** currently based in **Geneva**, working at the intersection of Neuroscience and AI at **CERN**. My research focuses on **Graph Neural Networks (GNNs)**, Federated Learning, and their applications in healthcare (e.g., stroke assessment).
 
 * 🔭 I’m currently working on **Explainable GNNs for EEG Signals**.
 * 🎓 **MSc in Data Science** (Sapienza University of Rome) & **BSc in Statistics**.
