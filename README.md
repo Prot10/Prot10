@@ -19,10 +19,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prot10&bg_color=0D1117&color=35ce8d&line=35ce8d&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
 <br />
 
 ### 👨‍💻 About Me
